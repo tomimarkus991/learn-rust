@@ -1,3 +1,11 @@
-const data = [1, 2, 3].map((item) => item + 1);
+import fs from 'fs';
 
-console.log(data);
+
+
+// fs.readFileSync("lines").toString().split("\n").forEach((line) => {
+//     console.log(line);
+// });
+
+
+console.log(fs);
+console.log("hello");
