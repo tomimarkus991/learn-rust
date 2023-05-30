@@ -27,6 +27,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@redlotus/tsconfig@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@redlotus/tsconfig/-/tsconfig-1.0.4.tgz#14af8ff433398c20541baf8970bbc128b26d5bc5"
+  integrity sha512-UhiMsjT+/tRIoDma33V7vvKrtowPB78h0LI710svK7gbj+Bogsm2wMr4I6HqlHyrpPsUXCvyCQ2U8cGqUCPfTw==
+
 "@tsconfig/node10@^1.0.7":
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/@tsconfig/node10/-/node10-1.0.9.tgz#df4907fc07a886922637b15e02d4cebc4c0021b2"
