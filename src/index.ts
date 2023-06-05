@@ -1,11 +1,8 @@
-import fs from 'fs';
+const practice = (nums: number[], index: number) => {
+  if (nums[index]) {
+    return nums[index] * 5;
+  }
+  return index * 5;
+};
 
-
-
-// fs.readFileSync("lines").toString().split("\n").forEach((line) => {
-//     console.log(line);
-// });
-
-
-console.log(fs);
-console.log("hello");
+console.log(practice([12, 12, 12], 2));
